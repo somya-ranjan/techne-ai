@@ -1,0 +1,15 @@
+input[type="radio"] {
+  cursor: pointer;
+  accent-color: gray;
+  margin: 0 10px 0 0;
+}
+input[type="number"] {
+  width: 55px;
+  margin-right: 10px;
+  text-align: center;
+}
+button {
+  border-radius: 25px !important;
+  background-color: rgb(132 188 223) !important;
+  border-color: rgb(132 188 223) !important;
+}
